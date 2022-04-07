@@ -6,6 +6,20 @@ Graphical variatey and quality were the only two things that recieved marks.
 
 I really enjoyed working on this project. It provided ample oppotunity to enhance my understanding in graphics programming. The team worked very well together. I am very happy with what we achieved.
 
+Files that I created:
+index.php
+CSS/index.css
+js/TextureManager.js
+src/BloodParticles.js
+src/DrawBridgeAnimation.js
+src/Fire.js
+src/FireSmoke.js
+src/Firework.js
+src/Rain.js
+src/TextureLoader.js
+
+src/main.js was worked on by all three group members.
+
 Controls:
 - Camera pan: Arrow keys or hold RMB and drag
 - Rotate camera: Hold LMB and drag
