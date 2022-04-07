@@ -1,0 +1,50 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+canvas
+{
+    width: 100%;
+    height: 100%;
+}
+
+#dummyHitNotification
+{
+    color: #E1341E;
+}
+
+#UITable
+{
+    font-size: 125%;
+    border-radius: 10px;
+    text-shadow: 1px 1px #000000;
+    box-shadow: 2px 2px #9BD12E;
+    position: absolute;
+    margin: 2%;
+    padding: 1%;
+    top: 10px;
+    border: 1px solid #9BD12E;
+    background-color: #000000;
+    color: #7f53d9;
+    
+}
+
+table tr
+{
+    margin: 90%;
+    padding: 1%;
+}
+table th
+{
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+}
+table td
+{
+    display: inline;
+    color: #2ED1B5;
+    font-weight: normal;
+}

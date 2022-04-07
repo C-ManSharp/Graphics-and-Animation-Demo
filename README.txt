@@ -1,0 +1,1 @@
+Due to the more advanced features of JavaScript that we have chosen to use this program will not run on a Python server. This has been tested on WAMP and XAMPP server.
